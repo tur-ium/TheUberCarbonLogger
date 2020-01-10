@@ -4,7 +4,6 @@ A simple spreadsheet which calculates and logs the carbon emissions caused by yo
 # Setting it up
 1. Click the button below to download a zip with the contents of this folder
 [![](download_button.png)](https://github.com/tur-ium/TheUberCarbonLogger/archive/master.zip)
-![](download_instructions.png)
 2. Extract the zip. 
 3. Open up the Excel spreadsheet
 4. Enable macros, these are used only for generating drop down menus to make inputting information easier, promise! If you like take a look at the source code!
