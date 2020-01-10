@@ -1,2 +1,21 @@
-# TheUberCarbonLogger
-A tool for logging your carbon emissions.
+# The Uber Carbon Logger
+A simple spreadsheet which calculates and logs the carbon emissions caused by your travel.
+
+Download it here
+
+ .----------------.  .----------------.  .----------------.  .-----------------. .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
+| |  ________    | || |     ____     | || | _____  _____ | || | ____  _____  | || |   _____      | || |     ____     | || |      __      | || |  ________    | |
+| | |_   ___ `.  | || |   .'    `.   | || ||_   _||_   _|| || ||_   \|_   _| | || |  |_   _|     | || |   .'    `.   | || |     /  \     | || | |_   ___ `.  | |
+| |   | |   `. \ | || |  /  .--.  \  | || |  | | /\ | |  | || |  |   \ | |   | || |    | |       | || |  /  .--.  \  | || |    / /\ \    | || |   | |   `. \ | |
+| |   | |    | | | || |  | |    | |  | || |  | |/  \| |  | || |  | |\ \| |   | || |    | |   _   | || |  | |    | |  | || |   / ____ \   | || |   | |    | | | |
+| |  _| |___.' / | || |  \  `--'  /  | || |  |   /\   |  | || | _| |_\   |_  | || |   _| |__/ |  | || |  \  `--'  /  | || | _/ /    \ \_ | || |  _| |___.' / | |
+| | |________.'  | || |   `.____.'   | || |  |__/  \__|  | || ||_____|\____| | || |  |________|  | || |   `.____.'   | || ||____|  |____|| || | |________.'  | |
+| |              | || |              | || |              | || |              | || |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------' 
+
+
+Uses data from the UK government's 2019 Greenhouse Gas Reporting Figures. You can find the emission factors used in the "Emission Factors" tab at the bottom of the spreadsheet. These are based on the best available data and reports. The data on greenhouse gas emission intensities used at present is sourced at present from the UK government greenhouse gas conversion factors for company reporting.  
+
+Developed by Artur Donaldson
