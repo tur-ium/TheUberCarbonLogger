@@ -1,5 +1,5 @@
 # The Uber Carbon Logger
-A simple spreadsheet which calculates and logs the carbon emissions caused by your travel. Designed for use by organizations within London looking to track the carbon footprint of their travel. It would be good to extend this to other cities
+A simple spreadsheet which calculates and logs the carbon emissions caused by your travel. Designed for use by organizations within London looking to track the carbon footprint of their travel. Developed for use at Imperial College by Artur Donaldson. Thanks also to There Must Be a Better Way / Profs Who Fly. 
 
 # Try it now
 [![](download_button.png)](travel_emissions_log_YOUR_NAME_HERE.xlsx)
